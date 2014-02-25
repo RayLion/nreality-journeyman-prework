@@ -1,0 +1,7 @@
+c:\users\ray\documents\visual studio 2010\Projects\FizzBuzzTdd\FizzBuzzTdd\bin\Debug\FizzBuzzTdd.dll
+c:\users\ray\documents\visual studio 2010\Projects\FizzBuzzTdd\FizzBuzzTdd\bin\Debug\FizzBuzzTdd.pdb
+c:\users\ray\documents\visual studio 2010\Projects\FizzBuzzTdd\FizzBuzzTdd\bin\Debug\nunit.framework.dll
+c:\users\ray\documents\visual studio 2010\Projects\FizzBuzzTdd\FizzBuzzTdd\bin\Debug\nunit.framework.xml
+c:\users\ray\documents\visual studio 2010\Projects\FizzBuzzTdd\FizzBuzzTdd\obj\Debug\FizzBuzzTdd.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2010\Projects\FizzBuzzTdd\FizzBuzzTdd\obj\Debug\FizzBuzzTdd.dll
+c:\users\ray\documents\visual studio 2010\Projects\FizzBuzzTdd\FizzBuzzTdd\obj\Debug\FizzBuzzTdd.pdb
