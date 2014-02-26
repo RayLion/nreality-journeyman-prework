@@ -1,0 +1,8 @@
+*.dll
+*.pdb
+*.cache
+*.suo
+*.user
+*.testsettings
+obj/*
+*.FileListAbsolute.txt
