@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures.Tests", "DataStructures.Tests\DataStructures.Tests.csproj", "{F6973A6B-4FCF-4FA7-8090-3F837B05A9E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8DAAF153-D579-469F-8BC0-8442D2CE0648}"
+	ProjectSection(SolutionItems) = preProject
+		DataStructures.Tests.vsmdi = DataStructures.Tests.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{5A3C9160-0F79-4F17-9E1D-FE40FBC0D09A}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DataStructures.Tests.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6973A6B-4FCF-4FA7-8090-3F837B05A9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6973A6B-4FCF-4FA7-8090-3F837B05A9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6973A6B-4FCF-4FA7-8090-3F837B05A9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6973A6B-4FCF-4FA7-8090-3F837B05A9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3C9160-0F79-4F17-9E1D-FE40FBC0D09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3C9160-0F79-4F17-9E1D-FE40FBC0D09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3C9160-0F79-4F17-9E1D-FE40FBC0D09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3C9160-0F79-4F17-9E1D-FE40FBC0D09A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

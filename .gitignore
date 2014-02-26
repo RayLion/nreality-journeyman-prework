@@ -6,4 +6,5 @@
 *.testsettings
 **/obj/*
 **/bin/*
+**/packages/*
 *.FileListAbsolute.txt
