@@ -4,5 +4,5 @@
 *.suo
 *.user
 *.testsettings
-obj/*
+**/obj/*
 *.FileListAbsolute.txt
