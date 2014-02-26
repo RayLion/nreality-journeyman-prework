@@ -1,0 +1,10 @@
+Supermarket pricing kata
+------------------------
+I would have the following handle the objects seperately like follows:
+*Product - details of product
+*Cost - how products price is handled (per item / per kilogram)
+*Specials - what special offers are available for product (buy 2 get 1 free / buy 3 for 100)
+If a product has a special available I would list all items and deduct difference of which audit trail is kept. 
+Example: Item is worth 10 and is on special buy 3 for 20. I would list all three and deduct 10
+Fractional money is not necessary and rounding will happen in Cost
+The value of stock will be the base price per product
