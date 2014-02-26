@@ -5,4 +5,5 @@
 *.user
 *.testsettings
 **/obj/*
+**/bin/*
 *.FileListAbsolute.txt

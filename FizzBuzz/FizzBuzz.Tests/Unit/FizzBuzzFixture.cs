@@ -1,7 +1,8 @@
 ﻿using System.Globalization;
+using FizzBuzzTdd;
 using NUnit.Framework;
 
-namespace FizzBuzzTdd
+namespace FizzBuzz.Tests.Unit
 {
     [TestFixture]
     public class FizzBuzzFixture

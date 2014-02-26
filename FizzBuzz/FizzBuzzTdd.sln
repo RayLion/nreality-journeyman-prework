@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Tests", "FizzBuzz.Tests\FizzBuzz.Tests.csproj", "{16D5A75A-5A1C-4BF9-8D19-1B4E9003C974}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = FizzBuzzTdd.vsmdi
@@ -23,6 +25,10 @@ Global
 		{389A9849-6D49-406C-9860-407F401935AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{389A9849-6D49-406C-9860-407F401935AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{389A9849-6D49-406C-9860-407F401935AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D5A75A-5A1C-4BF9-8D19-1B4E9003C974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D5A75A-5A1C-4BF9-8D19-1B4E9003C974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D5A75A-5A1C-4BF9-8D19-1B4E9003C974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D5A75A-5A1C-4BF9-8D19-1B4E9003C974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
